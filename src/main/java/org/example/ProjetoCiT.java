@@ -46,7 +46,7 @@ public class ProjetoCiT {
     @Test
     public void validarListagem25Itens() {
         /*Funcionalidade: Validação da listagem e paginação das questões.
-          Cenário: Valida a listagem de perguntas.
+          Cenário: Verificar a listagem de perguntas.
           Dado que navego para a página de busca do banco de questões
           E valido os elementos da página
           Então verifico a existência e funcionamento do elemento.*/
@@ -73,7 +73,7 @@ public class ProjetoCiT {
     @Test
     public void validarLoginSistema() {
         /*Funcionalidade: Login no Open TDB
-          Cenário: Realizar login no site.
+          Cenário: Processo de login no site.
           Dado que navego para a página de login
           E realizo o login com informações válidas
           Então verifico se o acesso foi feito corretamente.*/
